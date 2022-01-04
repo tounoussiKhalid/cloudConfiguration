@@ -1,5 +1,5 @@
 applicationconfigutation:
   host: http://localhost
   port: 3306
-  username: billing-dev
-  password: billing-dev
+  username: billing
+  password: billing
