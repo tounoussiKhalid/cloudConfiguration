@@ -1,0 +1,5 @@
+applicationconfigutation:
+  customer-service.host: http://localhost
+  customer-service.port: 3305
+  customer-service.username: customer
+  customer-service.password: customer
